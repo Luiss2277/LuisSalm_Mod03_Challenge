@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>LuisSalm_Mod03_Challenge - Command 1</Text>
+    <Description>Some description for LuisSalm_Mod03_Challenge</Description>
+    <Assembly>LuisSalm_Mod03_Challenge.dll</Assembly>
+    <FullClassName>LuisSalm_Mod03_Challenge.Command1</FullClassName>
+    <ClientId>e12fccd1-5525-4418-8e16-6131831fe4d5</ClientId>
+    <VendorId>com.PEC</VendorId>
+    <VendorDescription>PEC, http://www.pec1.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>LuisSalm_Mod03_Challenge - Command 2</Text>
+    <Description>Some description for LuisSalm_Mod03_Challenge</Description>
+    <Assembly>LuisSalm_Mod03_Challenge.dll</Assembly>
+    <FullClassName>LuisSalm_Mod03_Challenge.Command2</FullClassName>
+    <ClientId>ef8d34cd-d6f0-4567-8e34-d69c4e4bba61</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>LuisSalm_Mod03_Challenge</Name>
+    <Assembly>LuisSalm_Mod03_Challenge.dll</Assembly>
+    <FullClassName>LuisSalm_Mod03_Challenge.App</FullClassName>
+    <ClientId>c65728d6-b349-4bf9-bc81-499e8f228ed9</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>

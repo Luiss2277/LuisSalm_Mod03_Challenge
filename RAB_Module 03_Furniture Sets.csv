@@ -1,0 +1,10 @@
+﻿Furniture Set,Room Type,Included Furniture
+A,Office,"desk, task chair, side chair, bookcase"
+A2,Office,"desk, task chair, side chair, bookcase, loveseat"
+B,Classroom - Large,"teacher desk, task chair, student desk, student desk, student desk, student desk, student desk, student desk, student desk, student desk, student desk, student desk, student desk, student desk, "
+B2,Classroom - Medium,"teacher desk, task chair, student desk, student desk, student desk, student desk, student desk, student desk, student desk, student desk"
+C,Computer Lab,"computer desk, computer desk, computer desk, computer desk, computer desk, computer desk, task chair, task chair, task chair, task chair, task chair, task chair"
+D,Lab,"teacher desk, task chair, lab desk, lab desk, lab desk, lab desk, lab desk, lab desk, lab desk, stool, stool, stool, stool, stool, stool, stool"
+E,Student Lounge,"lounge chair, lounge chair, lounge chair, sofa, coffee table, bookcase"
+F,Teacher's Lounge,"lounge chair, lounge chair, sofa, coffee table, dining table, dining chair, dining chair, dining chair, dining chair, bookcase"
+G,Waiting Room,"lounge chair, lounge chair, sofa, coffee table"

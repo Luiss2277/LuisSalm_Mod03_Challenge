@@ -1,0 +1,16 @@
+﻿Furniture Name,Revit Family Name,Revit Family Type
+desk,Desk,60in x 30in
+task chair,Chair-Task,Chair-Task
+side chair,Chair-Breuer,Chair-Breuer
+bookcase,Shelving,96in x 12in x 84in
+loveseat,Sofa,54in
+teacher desk,Table-Rectangular,48in x 30in
+student desk,Desk,60in x 30in Student
+computer desk,Table-Rectangular,48in x 30in
+lab desk,Table-Rectangular,72in x 30in
+lounge chair,Chair-Corbu,Chair-Corbu
+coffee table,Table-Coffee,30in x 60in x 18in
+sofa,Sofa-Corbu,Sofa-Corbu
+dining table,Table-Dining,30in x 84in x 22in
+dining chair,Chair-Breuer,Chair-Breuer
+stool,Chair-Task,Chair-Task
